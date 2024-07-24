@@ -4,11 +4,7 @@ include('db.php');
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<<<<<<< HEAD
 <title>SUNRISE HOTEL </title>
-=======
-<title>Sunny Hotel</title>
->>>>>>> 578ee51ab631f5de4f3fe5a863781ed89abb875b
 <!-- for-mobile-apps -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
